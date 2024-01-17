@@ -14,6 +14,13 @@
   ],
   "author": "aakash",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/aks318/aakash-country"
+  },
+  "bugs": {
+    "url": "https://github.com/aks318/aakash-country/issues"
+  },
   "dependencies": {
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
